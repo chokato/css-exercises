@@ -1,20 +1,19 @@
-p {
+.odd {
     background-color: #ffc0cb;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
     font-size: 20px;
 }
 
-#p3 {
+.change-font-size {
     font-size: 24px;
 }
 
-.div2 {
+#two {
     color: #0000ff;
     font-size: 36px;
 }
 
-.div4 {
+#four {
     background-color:#72c372;
-    font-size: 24px;
     font-weight: bold;
 }
